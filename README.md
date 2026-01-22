@@ -2,6 +2,20 @@
 
 These scripts create or purge a generic "agent" user for initial bootstrap on a host.
 
+### Getting the scripts
+
+Clone the repository using HTTPS:
+
+  git clone https://github.com/charles-legui/agent-bootstrap.git
+
+Or using SSH:
+
+  git clone git@github.com:charles-legui/agent-bootstrap.git
+
+Then navigate to the directory:
+
+  cd agent-bootstrap
+
 ### Quick start (get and run)
 
 From your admin machine, copy the scripts to a new host and run the add script:
